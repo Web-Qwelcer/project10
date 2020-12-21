@@ -1,0 +1,161 @@
+body {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin: 0 50px 0 50px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+}
+
+.wrapper {
+    width: auto;
+    height: auto;
+}
+
+.header {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-color: #4A235A;
+}
+
+.branding {
+    position: relative;
+    top: 25px;
+    margin: auto;
+    width: 500px;
+    height: 75px;
+    background-color: #6E2C00;
+}
+
+.nav {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 25px 0 25px 0;
+    background-color: #E67E22;
+}
+
+.container {
+    widows: 100%;
+    height: 500px;
+    margin-top: 25px;
+    padding: 25px;
+}
+
+#container1 {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.head1 {
+    position: absolute;
+    top: 21px;
+    left: 50px;
+    width: 440px;
+    background-color: #6E2C00;
+}
+
+.container_container1 {
+    width: 30%;
+    height: 90%;
+    background-color: #3498DB;
+}
+
+.container_container2 {
+    width: 30%;
+    height: 100%;
+    background-color: #3498DB;
+}
+
+.head2 {
+    width: 440px;
+    margin-left: 25px;
+    background-color: #6E2C00;
+}
+
+.container_container3 {
+    width: 1420px;
+    height: 435px;
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: #3498DB;
+}
+
+.container_container4 {
+    width: 440px;
+    height: 100px;
+    background-color: #145A32;
+}
+
+.head3 {
+    width: 440px;
+    margin: auto;
+    background-color: #6E2C00;
+}
+
+.container_container5 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 1420px;
+    height: 435px;
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: #3498DB;
+}
+
+.container_container6 {
+    width: 440px;
+    height: 400px;
+    margin-right: 20px;
+    background-color: #145A32;
+}
+
+#container4 {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.head4 {
+    position: absolute;
+    top: 25px;
+    left: 595px;
+    width: 440px;
+    background-color: #6E2C00;
+}
+
+.container_container7 {
+    width: 500px;
+    height: 500px;
+    background-color: #145A32;
+}
+
+.container_container8 {
+    width: 875px;
+    height: 350px;
+    background-color: #3498DB;
+}
